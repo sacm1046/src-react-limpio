@@ -12,6 +12,7 @@ npm install emailjs-com --save
 
 //Custom Alerts
 npm install sweetalert --save
+npm i @sweetalert/with-react
 
 //Animations 
 npm install aos --save
